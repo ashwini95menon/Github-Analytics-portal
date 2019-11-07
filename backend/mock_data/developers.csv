@@ -1,0 +1,31 @@
+Issue Number,Issue Name,Created at,Closed at,Closed by
+95,Cut more Wolfbot PCBs,2014-03-21T16:55:09Z,2014-03-26T17:19:11Z,ghost
+93,Wiki entry for Opti-track calibrations and trackables,2014-02-04T01:29:23Z,2014-02-04T01:34:25Z,ghost
+92,Unique tracking identifyers via Optitrack,2014-01-31T00:06:45Z,2014-04-01T21:23:56Z,ghost
+91,Normalize distance sensor ADC values,2014-01-25T19:54:36Z,2014-04-01T21:24:13Z,gandalf
+89,Document Windows drivers for BBB,2014-01-23T21:11:12Z,2014-02-28T00:45:42Z,ghost
+88,Parts for experiment arena,2014-01-21T09:46:22Z,2014-01-25T20:26:46Z,chewbacca
+87,FTDI USB to TTL serial cable,2014-01-21T01:20:48Z,2014-01-21T22:34:30Z,ghost
+86,Replace flush cutters,2014-01-21T01:17:17Z,2014-01-21T22:33:35Z,chewbacca
+82,WB-07 hardware debugging,2014-01-18T05:13:52Z,2014-01-22T21:48:56Z,chewbacca
+81,WB-13 hardware debugging,2014-01-18T04:20:36Z,2014-01-21T03:02:56Z,ghost
+80,WB-05 Debug,2014-01-17T22:06:22Z,2014-01-24T22:23:01Z,ghost
+79,WB-14 Debug,2014-01-17T22:05:32Z,2014-01-21T00:00:55Z,gandalf
+78,WB-09 Debug,2014-01-17T22:05:02Z,2014-01-23T23:12:30Z,chewbacca
+77,WB-11 debug,2014-01-17T22:04:11Z,2014-01-24T22:33:12Z,ghost
+76,"WBs 7, 13, 15 need full software installation",2014-01-17T22:02:43Z,2014-01-18T05:16:03Z,ghost
+75,IR beacon mod for current set of WolfBots,2014-01-13T21:52:23Z,2014-01-21T03:19:51Z,gandalf
+73,Wolfbot #9 nearly completed,2013-11-23T05:51:10Z,2014-01-13T21:53:23Z,chewbacca
+70,2-position male molex connectors shortage,2013-11-18T12:35:57Z,2013-11-23T05:53:53Z,gandalf
+68,Incorrect image on power board wiki page,2013-11-16T02:04:22Z,2013-11-16T21:42:18Z,ghost
+67,Angle designation of 270 should be 240,2013-11-14T00:16:34Z,2013-11-14T00:16:56Z,chewbacca
+60,Reinforce bottom acrylic,2013-10-25T20:11:59Z,2013-12-19T15:39:14Z,ghost
+56,WB-07: ADCs fail to read sometimes,2013-10-07T19:48:56Z,2014-01-22T21:51:41Z,ghost
+55,WB-08 powerboard has a flakey 5V pot,2013-10-07T19:27:38Z,2013-10-17T09:49:08Z,gandalf
+53,Via on motor board can cause short,2013-10-01T06:26:27Z,2013-10-21T21:33:53Z,ghost
+49,DMS labels on Acrilics,2013-09-27T05:00:16Z,2013-10-02T23:47:18Z,ghost
+46,WolfBot 6 needs a more reliable USB power connection,2013-09-25T05:41:13Z,2013-09-26T03:10:18Z,gandalf
+45,USB Power Splice,2013-09-25T04:25:37Z,2013-09-27T18:26:22Z,ghost
+44,Small screw for LSM,2013-09-24T06:36:44Z,2014-01-13T21:59:12Z,chewbacca
+43,"Need smaller diameter 1/2"" F/F stand-offs for beacon",2013-09-24T04:33:09Z,2013-10-02T22:21:54Z,ghost
+42,Fix label for 95.3k res on PRF board,2013-09-23T21:07:38Z,2013-09-27T03:57:32Z,ghost
