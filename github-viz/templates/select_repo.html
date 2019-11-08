@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Viz</title>
+    <link rel="stylesheet" href="{{ url_for('static',filename='static/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+    <h1>{{ user_repo }}</h1>
+    <br>
+    <form action="{{ url_for('usecases') }}" method="post" name="user_choices">
+          <center>
+              <select id="repositories" name="repositories[]" multiple>
+                  <option value="kui" name="repo1">kui</option>
+                  <option value="mi-prometheus" name="repo2">mi-prometheus</option>
+                  <option value="AIF360" name="repo3">AIF360</option>
+                  <option value="ny-power" name="repo4">ny-power</option>
+                  <option value="pytorchpipe" name="repo5">pytorchpipe</option>
+                  <option value="Lagom-object-storage" name="repo6">Lagom-object-storage</option>
+                  <option value="gdpr-fingerprint-pii" name="repo7">gdpr-fingerprint-pii</option>
+                  <option value="etcd-java" name="repo8">etcd-java</option>
+                  <option value="MAX-Name-Generator" name="repo9">MAX-Name-Generator</option>
+                  <option value="MAX-Text-Sentiment-Classifier" name="repo10">MAX-Text-Sentiment-Classifier</option>
+                  <option value="constrained-rl" name="repo11">constrained-rl</option>
+                  <option value="data-broker" name="repo12">data-broker</option>
+                  <option value="model-evaluation-workbench" name="repo13">model-evaluation-workbench</option>
+                  <option value="dsrc" name="repo14">dsrc</option>
+                  <option value="summit-health-synthea" name="repo15">summit-health-synthea</option>
+                  <option value="blockchain-application-using-fabric-java-sdk" name="repo16">blockchain-application-using-fabric-java-sdk</option>
+                  <option value="page-lab" name="repo17">page-lab</option>
+                  <option value="pypeline" name="repo18">pypeline</option>
+              </select>
+              <input type="submit" value="Send"/>
+          </center>
+    </form>
+</body>
+</html>

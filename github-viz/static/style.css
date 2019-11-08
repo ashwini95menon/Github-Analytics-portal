@@ -1,0 +1,45 @@
+input[type=search] {
+  border: 1px dotted #999;
+  border-radius: 0;
+
+  -webkit-appearance: none;
+}
+input[type=text], select, textarea{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+input[type=submit] {
+  background-color: #556B2F;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+body {
+  font  : 21px sans-serif;
+
+  padding : 2em;
+  margin  : 0;
+
+  background : #556B2F;
+  align-content: center;
+  align-self: center;
+}
+
+form {
+  position: relative;
+
+  width  : 740px;
+  height : 700px;
+  margin : 0 auto;
+  align-content: center;
+
+  background: #FFF url(background.jpg);
+}

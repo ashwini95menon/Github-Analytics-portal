@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Viz</title>
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+    <form action="{{ url_for('select_usecases') }}">
+        <input type="submit" value="Home">
+    </form>
+
+    <script type='text/javascript' src='https://us-east-1.online.tableau.com/javascripts/api/viz_v1.js'>
+
+    </script>
+    <div class='tableauPlaceholder' style='width: 1000px; height: 827px;'>
+        <object class='tableauViz' width='1000' height='827' style='display:none;'>
+            <param name='host_url' value='https%3A%2F%2Fus-east-1.online.tableau.com%2F' />
+            <param name='embed_code_version' value='3' />
+            <param name='site_root' value='&#47;t&#47;ssmore' />
+            <param name='name' value='issues&#47;Dashboard1' />
+            <param name='tabs' value='no' />
+            <param name='toolbar' value='yes' />
+            <param name='showAppBanner' value='false' />
+            <param name='filter' value='iframeSizedToWindow=true' />
+        </object>
+    </div>
+</body>
+</html>
