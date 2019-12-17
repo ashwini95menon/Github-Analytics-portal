@@ -28,4 +28,4 @@ Nimisha Tripathi (<ntripat@ncsu.edu>)
 
  [MILESTONE4.md](https://github.ncsu.edu/adhaval/csc510-project/blob/master/MILESTONE4.md)
 
- [REPORT.md](https://github.ncsu.edu/adhaval/csc510-project/blob/master/REPORT.md)
+ [REPORT.md](https://github.com/ashwini95menon/Github-Analytics-portal/blob/master/REPORT.md)
