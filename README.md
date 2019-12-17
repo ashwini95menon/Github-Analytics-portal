@@ -20,7 +20,7 @@ Shreya More (<ssmore@ncsu.edu>)
 Ashwini Menon (<amenon2@ncsu.edu>)  
 Nimisha Tripathi (<ntripat@ncsu.edu>)  
 
- [DESIGN.md](https://github.ncsu.edu/adhaval/csc510-project/blob/master/DESIGN.md)
+ [DESIGN.md](https://github.com/ashwini95menon/Github-Analytics-portal/blob/master/DESIGN.md)
 
  [MILESTONE2.md](https://github.ncsu.edu/adhaval/csc510-project/blob/master/MILESTONE2.md)
 
