@@ -130,8 +130,8 @@ Python,kafka`
  
 Currently, we have implemented the three use cases mentioned above and are able to obtain a visualization for them using Tableau. The related code can be found here :
 
-[Backend Code](https://github.ncsu.edu/adhaval/csc510-project/tree/master/backend)  
-[Frontend Code](https://github.ncsu.edu/adhaval/csc510-project/tree/master/WebPage)
+[Backend Code](https://github.com/ashwini95menon/Github-Analytics-portal/tree/master/backend)  
+[Frontend Code](https://github.com/ashwini95menon/Github-Analytics-portal/tree/master/WebPage)
 
 
 #### Details
@@ -149,16 +149,16 @@ As of now, the data is static and  is extracted from some GitHub repositories we
 
 Visualisations from our portal have been depicted below:
 
-![alt text](https://github.ncsu.edu/adhaval/csc510-project/blob/master/images/ms2_viz1.png)
+![alt text](https://github.com/ashwini95menon/Github-Analytics-portal/blob/master/images/ms2_viz1.png)
 
-![alt text](https://github.ncsu.edu/adhaval/csc510-project/blob/master/images/ms2_viz2.png)
+![alt text](https://github.com/ashwini95menon/Github-Analytics-portal/blob/master/images/ms2_viz2.png)
 
-![alt text](https://github.ncsu.edu/adhaval/csc510-project/blob/master/images/ms2_viz3.png)
+![alt text](https://github.com/ashwini95menon/Github-Analytics-portal/blob/master/images/ms2_viz3.png)
 
 -----
 
 ### Task Tracking
-Link to [WORKSHEET.md](https://github.ncsu.edu/adhaval/csc510-project/blob/master/WORKSHEET.md)
+Link to [WORKSHEET.md](https://github.com/ashwini95menon/Github-Analytics-portal/blob/master/WORKSHEET.md)
 
 -----
 
