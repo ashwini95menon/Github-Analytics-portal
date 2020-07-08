@@ -1,4 +1,4 @@
-# csc510-project
+# Github Analytics portal
 Software Engineering (Spring 2019)
 
 <img width="1280" alt="screen shot 2019-04-26 at 12 33 03 pm" src="https://media.github.ncsu.edu/user/10688/files/355de200-6823-11e9-895e-63ed3f07f86d">
